@@ -1,4 +1,4 @@
-# ScholarMitra — Fixed Edition
+# ScholarMitra
 
 This edition deliberately has **zero npm dependencies** and does not use React, Vite, Rollup, esbuild, or native `.node` binaries. It is designed to avoid the `ERR_DLOPEN_FAILED` issue you encountered.
 
